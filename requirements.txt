@@ -1,0 +1,10 @@
+altgraph==0.17.3
+cssselect2==0.7.0
+lxml==4.9.3
+Pillow==10.0.0
+pygame==2.5.0
+pyinstaller==5.13.0
+pyinstaller-hooks-contrib==2023.5
+reportlab==4.0.4
+tinycss2==1.2.1
+webencodings==0.5.1
